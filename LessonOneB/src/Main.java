@@ -17,6 +17,7 @@ public class Main {
         String lastname = name.substring(nameIndex + 1);
         System.out.println("First name: " + firstName);
         System.out.println("Last name: " + lastname);
+        System.out.println("THIS IS NEW");
 
     }
 }
